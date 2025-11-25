@@ -6,14 +6,14 @@
 ## 👨‍💻 About Me
 <img align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-3467997-2905962.png" width="320"/>
 
-- 🎓 I'm a **1st-year CSE Engineering Student** passionate about technology.
+- 🎓 I'm a **2nd-year CSE Engineering Student** passionate about technology.
 - 🔥 Solved **450+ CodeChef**, **300+ SkillRack**, **250+ LeetCode** problems.
 - 🌱 Currently learning **AI, Machine Learning, NLP & React Ecosystem**.
 - 🚀 My fields of interest are **Full-Stack Web Development, AI & Problem Solving**.
 - 💼 Frontend Developer of **Goozix – Digital Asset Selling Platform**.
 - 🏥 Working on **PharmaLedger – Blockchain-based Pharmacy Inventory**.
-- 🌾 Building **Project Kisan – AI Assistant for Farmers** (Hackathon).
-- 📬 Reach me at: **your-email@gmail.com** (add your email)
+- 🌾 Building **Project Kisan – AI Assistant for Farmers** .
+- 📬 Reach me at: **sanjaykumaar772@gmail.com** 
 - 💡 Fun Fact: *“Programmers don't burn out on hard work, they burn out on change without direction.”*
 
 <br>
@@ -93,8 +93,8 @@
 
 # 🔗 Connect with Me
 <p>
-<a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sanjay-kumaar-219631327/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sanjaykumaar772@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
